@@ -21,7 +21,3 @@ if guess == secretnumber:
     print('Congrats '+name +" you guessed the number in "+str(guesstaken)+" guesses")
 else:
     print("Nope ,The number i was thinking of was "+str(secretnumber))
-
-
-
-
